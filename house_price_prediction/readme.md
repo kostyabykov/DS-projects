@@ -14,3 +14,5 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarith
 ## Practice Skills
 * Creative feature engineering 
 * Advanced regression techniques like random forest and gradient boosting
+
+[Data description](https://github.com/kostyabykov/DS-projects/blob/main/house_price_prediction/data_description.txt)
